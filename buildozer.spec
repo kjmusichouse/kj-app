@@ -31,7 +31,7 @@ icon.filename = data/icon.png
 # presplash.filename = data/splash.png
 
 # Required for GitHub CI runner
-android.sdk_path = $HOME/android-sdk
+#android.sdk_path = $HOME/android-sdk
 
 [buildozer]
 log_level = 2
