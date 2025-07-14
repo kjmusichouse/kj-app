@@ -12,7 +12,10 @@ orientation = portrait
 fullscreen = 0
 
 requirements = python3,kivy==2.3.0,pyjnius,requests
-#android.api = 33
+android.api = 33
+android.minapi = 21
+android.sdk = 33
+android.ndk = 25b
 #android.ndk = 25.2.9519653
 #android.sdk_path = /usr/local/lib/android/sdk
 #android.ndk_path = /usr/local/lib/android/sdk/ndk/25.2.9519653
